@@ -7,7 +7,6 @@ Creating a function in Python
 
 https://getyarn.io/yarn-clip/380cae46-f791-422e-9706-17f689670a0e/gif
 
-https://madebyshape.co.uk/web-design-blog/gifs-by-shape/
 ## Running Tests
 
 To run tests, run the following command
