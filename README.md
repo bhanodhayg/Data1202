@@ -9,7 +9,7 @@ https://getyarn.io/yarn-clip/380cae46-f791-422e-9706-17f689670a0e/gif
 
 ## Running Tests
 
-To run tests, run the following command
+As per the requirements, we created a function in python to read the .CSV file and return just the top 1000 values. We used iloc function to start and then improvised the code to keep it clean and simple.
 
 ```bash
   npm run test
@@ -41,7 +41,7 @@ def top1000(file_name):
 We began with the iloc function and started counting the columns. We created a function just to return the top 1000 records and it worked perfectly.
 
 ## 🚀 About Me
-I am an aspiring Data Analyst
+I am an aspiring Data Analyst.
 
 ## 🛠 Skills
 Python,Sql, Power Bi, Tableau
